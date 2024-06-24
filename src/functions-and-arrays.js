@@ -1,5 +1,7 @@
 // Iteration 1 | Find the Maximum
-function maxOfTwoNumbers() {}
+function maxOfTwoNumbers(a, b) {
+  a > b ? console.log(a) : console.log(b);
+}
 
 
 
